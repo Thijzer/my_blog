@@ -2,12 +2,12 @@
 
 ### serve localhost:1313 server
 ```shell
-docker/hugo.sh
+make serve
 ```
 
 ### build static /public site
 ```shell
-docker/build.sh
+make build
 ```
 
 ### add a new Post
